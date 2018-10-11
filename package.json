@@ -15,7 +15,7 @@
     ]
   },
   "dependencies": {
-    "@scoutgg/widgets": "^2.0.0",
+    "@scoutgg/widgets": "^2.2.0",
     "hyperhtml": "^2.13.0",
     "widgets-router": "https://github.com/angeltveit/widgets-router.git"
   },

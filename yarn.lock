@@ -564,10 +564,6 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@scoutgg/widgets@^2.0.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@scoutgg/widgets/-/widgets-2.1.0.tgz#64b75ef1d9d84a1dd4a9643fb38c003dd4fd7118"
-
 "@scoutgg/widgets@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@scoutgg/widgets/-/widgets-2.2.0.tgz#e6dc6e974c935c2238b19459d4171d208bcbb3e9"
